@@ -3,6 +3,8 @@ GSoC Roadmap
 GSoC Roadmap
 ============
 
+![poster](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191115191637/How-to-Prepare-For-Google-Summer-of-Code-A-Complete-Guide.png)
+
 Introduction
 ------------
 
@@ -33,3 +35,6 @@ Video Resources
 *   [How to choose a GSoC project?](https://www.youtube.com/watch?v=3Yq3lD7oWng)
 *   [How to write a good GSoC proposal?](https://www.youtube.com/watch?v=FBcSjx5vSx0)
 *   [How to interact with your mentor?](https://www.youtube.com/watch?v=bPPFknWOJfI)
+
+
+![poster2](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-Horizontal.png)
