@@ -68,7 +68,9 @@ A comprehensive curated list of available GSOC 2020 Guides, Write-ups and Tutori
     * [GSoC: How to find projects and build a proposal Hindi/Hinglish Coding Blocks](https://www.youtube.com/watch?v=RpdjewNuPzc&list=PLl4Y2XuUavmvewAv_PUlXgzXWY44xjWmo&index=1)
     
 ### Archive
-
+- [2023 Organizations]((https://summerofcode.withgoogle.com/programs/2023/organizations))
+- [2022 Organizations]((https://summerofcode.withgoogle.com/archive/2022/organizations))
+- [2021 Organizations]((https://summerofcode.withgoogle.com/archive/2021/organizations))
 - [2020 Organizations](https://summerofcode.withgoogle.com/archive/2020/organizations/)
 - [2019 Organizations](https://summerofcode.withgoogle.com/archive/2019/organizations/)
 - [2018 Organizations](https://summerofcode.withgoogle.com/archive/2018/organizations/)
